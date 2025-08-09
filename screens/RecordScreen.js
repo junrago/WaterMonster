@@ -424,6 +424,7 @@ const styles = StyleSheet.create({
     padding: screenWidth * 0.25,
     alignItems: 'center',
     justifyContent: 'flex-start',
+    backgroundColor: colors.background,
   },
   shadowWrap: {
     borderRadius: 30,
