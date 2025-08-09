@@ -137,7 +137,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'flex-start',
     alignItems: 'center',
-    backgroundColor: '#e3f2fd',
+    backgroundColor: colors.background,
     paddingHorizontal: screenWidth * 0.06,
     paddingTop: screenHeight * 0.05,
   },
